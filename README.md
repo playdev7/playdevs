@@ -1,25 +1,28 @@
-# PLAYDEV7
+# PLAYDEVS  
 
-개인 프로젝트 저장소  
-주로 [블로그](https://playdev7.github.io) 및 공유하고자 하는 프로젝트와 관련된 파일이 올라올 예정  
-
-<br>
-
-## Project List
-- PLAYDEV7 Blog
-    - Genesis
-- 인공지능사관학교 아카이브
+내가 좋아하는 것들을 즐기고 정리하는 저장소.  
 
 <br>
 
-## Project Detail
+## List
+- Portfolio  
+- 인공지능사관학교(GJAI)  
+- PLAYDEV7  
+    - Genesis  
 
-### PLAYDEV7 Blog
-Computer Science 및 Data Science 와 관련하여 정리한 자료를 업로드하기 위한 블로그
 
-#### Genesis
-성경에 비유하여 OOP를 설명하고, 프로그래밍 해보는 프로젝트 - Python, Java
+<br>
 
-### GJAI-PTA
-GwangJu AI school Pre-Training Archive  
-인공지능사관학교 Pre-Training 관련 기록 보관소.
+## Descript List
+
+### Portfolio
+다양한 주제로 진행한 포트폴리오를 담는 공간 
+
+### 인공지능사관학교(GJAI)
+인공지능사관학교에서 학습하고 진행한 것들을 담는 공간.  
+
+### PLAYDEV7
+Computer Science 및 Data Science 와 관련된 지식을 정리하는 공간.
+
+#### PLAYDEV7/Genesis
+OOP를 설명하고, 프로그래밍 해보는 프로젝트
